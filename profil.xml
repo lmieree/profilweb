@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>My Website</title>
+</head>
+<body>
+<header>
+    <h1>Dimas Ian I</h1>
+</header>
+<section>
+    <div class="profil">
+        <h2>Profile</h2>
+        <p>Name: Dimas Ian Ibrahim</p>
+        <p>NBI: 1462200232</p>
+        <p>Major: Informatics Engineering</p>
+    </div>
+    <div class="education">
+        <h2>Education</h2>
+        <p>Elementary School   : SD Negeri Pacar Kelling</p>
+        <p>Junior High School  : SMP Negeri 29 Surabaya</p>
+        <p>Senior High School  : SMA Negeri 4 Surabaya</p>
+    </div>
+    <div class="contact">
+        <h2>Contact</h2>
+        <p>Whatsapp : 081228284802</p>
+        <p>Email    : dimasibrahim10@gmail.com</p>
+        <p>Facebook : DimasIan</p>
+    </div>
+</section>
+<footer>
+    <p>Individual Assignment II</p>
+</footer>
+</body>
+</html>
